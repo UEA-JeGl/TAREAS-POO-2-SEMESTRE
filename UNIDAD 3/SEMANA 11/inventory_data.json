@@ -1,0 +1,14 @@
+[
+  {
+    "id": "2",
+    "nombre": "PAÑALES",
+    "cantidad": 10,
+    "precio": 5.0
+  },
+  {
+    "id": "3",
+    "nombre": "FLORES",
+    "cantidad": 20,
+    "precio": 6.0
+  }
+]
